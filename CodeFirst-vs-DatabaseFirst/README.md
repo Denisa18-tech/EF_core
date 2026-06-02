@@ -10,15 +10,17 @@ EF Core generates database tables from those classes.
 
 C# Classes → EF Core → Database
 
-# Example
+### Example
 
 C#
-public class Employee
-{
-    public int Id { get; set; }
-    public string Name { get; set; }
+public class Employee<br>
+{<br>
+    public int Id { get; set; }<br>
+    public string Name { get; set; }<br>
 }
-
+<br>
+<br>
+<br>
 
 
 ## What is Database-First?
@@ -45,8 +47,8 @@ Employee
 Generate Models:
 
 C#
-public partial class Employee
-{
-    public int Id { get; set; }
-    public string Name { get; set; }
+public partial class Employee<br>
+{<br>
+    public int Id { get; set; }<br>
+    public string Name { get; set; }<br>
 }
