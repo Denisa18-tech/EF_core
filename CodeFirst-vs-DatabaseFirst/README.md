@@ -12,7 +12,7 @@ C# Classes → EF Core → Database
 
 ### Example
 
-C#
+C#<br>
 public class Employee<br>
 {<br>
     public int Id { get; set; }<br>
@@ -46,7 +46,7 @@ Employee
 
 Generate Models:
 
-C#
+C#<br>
 public partial class Employee<br>
 {<br>
     public int Id { get; set; }<br>
