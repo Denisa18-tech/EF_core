@@ -6,7 +6,7 @@ In Code-First approach, developers create C# classes first.
 
 EF Core generates database tables from those classes.
 
-# Flow
+### Flow
 
 C# Classes → EF Core → Database
 
@@ -21,17 +21,17 @@ public class Employee
 
 
 
-# What is Database-First?
+## What is Database-First?
 
 In Database-First approach, developers create the database first.
 
 EF Core generates C# classes from the existing database.
 
-# Flow
+### Flow
 
 Database → EF Core → C# Classes
 
-# Example
+### Example
 
 Database Table:
 
