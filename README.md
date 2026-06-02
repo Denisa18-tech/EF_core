@@ -4,17 +4,17 @@ EF Core is a lightweight, cross-platform ORM framework that enables .NET applica
 
 # What is ORM?
 
-ORM (Object Relational Mapping) maps database tables to C# classes and database rows to objects.
+ORM (Object Relational Mapping) maps database tables to C# classes and database rows to objects.<br>
 
 # What are the main benefits of EF Core?
-  Less SQL coding
-  Faster development
-  LINQ support
-  Migrations
-  Change tracking
-  Database independence
+  Less SQL coding<br>
+  Faster development<br>
+  LINQ support<br>
+  Migrations<br>
+  Change tracking<br>
+  Database independence<br>
   
 # What are the limitations of EF Core?
-  Performance overhead
-  Complex query optimization issues
+  Performance overhead<br>
+  Complex query optimization issues<br>
   Less control over generated SQL
